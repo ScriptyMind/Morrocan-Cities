@@ -1,0 +1,2417 @@
+[
+ {
+   "Rank": 1,
+   "City": "Casablanca",
+   "Population": 2936874,
+   "Province": "Casablanca",
+   "Region": "Grand Casablanca"
+ },
+ {
+   "Rank": 2,
+   "City": "Fes",
+   "Population": 944376,
+   "Province": "Fes",
+   "Region": "Fès-Boulemane"
+ },
+ {
+   "Rank": 3,
+   "City": "Salé",
+   "Population": 814871,
+   "Province": "Salé",
+   "Region": "Rabat-Salé-Zemmour-Zaer"
+ },
+ {
+   "Rank": 4,
+   "City": "Marrakesh",
+   "Population": 794620,
+   "Province": "Marrakesh",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 5,
+   "City": "Tangier",
+   "Population": 664295,
+   "Province": "Tanger Assila",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 6,
+   "City": "Rabat",
+   "Population": 620996,
+   "Province": "Rabat",
+   "Region": "Rabat-Salé-Zemmour-Zaer"
+ },
+ {
+   "Rank": 7,
+   "City": "Meknes",
+   "Population": 535066,
+   "Province": "Meknès",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 8,
+   "City": "Oujda",
+   "Population": 398131,
+   "Province": "Oujda Angad",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 9,
+   "City": "Kenitra",
+   "Population": 352058,
+   "Province": "Kenitra",
+   "Region": "Gharb-Chrarda-Béni Hssen"
+ },
+ {
+   "Rank": 10,
+   "City": "Agadir",
+   "Population": 344422,
+   "Province": "Agadir Ida ou tanane",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 11,
+   "City": "Tétouan",
+   "Population": 318698,
+   "Province": "Tetuan",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 12,
+   "City": "Safi",
+   "Population": 282227,
+   "Province": "Safi",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 13,
+   "City": "Temara",
+   "Population": 225084,
+   "Province": "Skhirat temara",
+   "Region": "Rabat-Salé-Zemmour-Zaer"
+ },
+ {
+   "Rank": 14,
+   "City": "Inzegan",
+   "Population": 198879,
+   "Province": "Inzegan Aït melloul",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 15,
+   "City": "Mohammedia",
+   "Population": 187708,
+   "Province": "Mohammedia",
+   "Region": "Grand Casablanca"
+ },
+ {
+   "Rank": 16,
+   "City": "Laâyoune",
+   "Population": 179542,
+   "Province": "Layoune",
+   "Region": "Laâyoune-Boujdour-Sakia El Hamra"
+ },
+ {
+   "Rank": 17,
+   "City": "Khouribga",
+   "Population": 165976,
+   "Province": "Khouribga",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 18,
+   "City": "Beni Mellal",
+   "Population": 162341,
+   "Province": "Beni Mellal",
+   "Region": "Tadla-Azilal"
+ },
+ {
+   "Rank": 19,
+   "City": "Jdida",
+   "Population": 143419,
+   "Province": "Jdida",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 20,
+   "City": "Taza",
+   "Population": 137778,
+   "Province": "Taza",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 21,
+   "City": "Aït Melloul",
+   "Population": 130105,
+   "Province": "Inzegan Aït melloul",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 22,
+   "City": "Nador",
+   "Population": 124915,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 23,
+   "City": "Settat",
+   "Population": 116548,
+   "Province": "Settat",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 24,
+   "City": "Ksar El Kbir",
+   "Population": 107120,
+   "Province": "Larache",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 25,
+   "City": "Larache",
+   "Population": 106895,
+   "Province": "Larache",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 26,
+   "City": "Khemisset",
+   "Population": 104769,
+   "Province": "Khemisset",
+   "Region": "Rabat-Salé-Zemmour-Zaer"
+ },
+ {
+   "Rank": 27,
+   "City": "Guelmim",
+   "Population": 95599,
+   "Province": "Guelmim",
+   "Region": "Guelmim-Es Semara"
+ },
+ {
+   "Rank": 28,
+   "City": "Berrechid",
+   "Population": 89551,
+   "Province": "Settat",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 29,
+   "City": "Wad Zam",
+   "Population": 83931,
+   "Province": "Khouribga",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 30,
+   "City": "Fkih Ben Saleh",
+   "Population": 82407,
+   "Province": "Beni Mellal",
+   "Region": "Tadla-Azilal"
+ },
+ {
+   "Rank": 31,
+   "City": "Taourirt",
+   "Population": 79664,
+   "Province": "Taourirt",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 32,
+   "City": "Berkane",
+   "Population": 79570,
+   "Province": "Berkane",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 33,
+   "City": "Sidi Slimane",
+   "Population": 78036,
+   "Province": "Kenitra",
+   "Region": "Gharb-Chrarda-Béni Hssen"
+ },
+ {
+   "Rank": 34,
+   "City": "Errachidia",
+   "Population": 75239,
+   "Province": "Errachidia",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 35,
+   "City": "Sidi Kacem",
+   "Population": 74036,
+   "Province": "Sidi Kacem",
+   "Region": "Gharb-Chrarda-Béni Hssen"
+ },
+ {
+   "Rank": 36,
+   "City": "Khenifra",
+   "Population": 71522,
+   "Province": "Khenifra",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 37,
+   "City": "Tifelt",
+   "Population": 69640,
+   "Province": "Khemisset",
+   "Region": "Rabat-Salé-Zemmour-Zaer"
+ },
+ {
+   "Rank": 38,
+   "City": "Essaouira",
+   "Population": 69005,
+   "Province": "Essaouira",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 39,
+   "City": "Taroudant",
+   "Population": 68726,
+   "Province": "Taroudant",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 40,
+   "City": "El Kelaa des Sraghna",
+   "Population": 68253,
+   "Province": "Kelaat Sraghna",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 41,
+   "City": "Oulad Teima",
+   "Population": 66159,
+   "Province": "Taroudant",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 42,
+   "City": "Youssoufia",
+   "Population": 64391,
+   "Province": "Safi",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 43,
+   "City": "Sefrou",
+   "Population": 63872,
+   "Province": "Sefrou",
+   "Region": "Fès-Boulemane"
+ },
+ {
+   "Rank": 44,
+   "City": "Ben Guerir",
+   "Population": 62693,
+   "Province": "Kelaat Sraghna",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 45,
+   "City": "Tan-Tan",
+   "Population": 60560,
+   "Province": "Tan-Tan",
+   "Region": "Guelmim-Es Semara"
+ },
+ {
+   "Rank": 46,
+   "City": "Ouazzane",
+   "Population": 57367,
+   "Province": "Sidi Kacem",
+   "Region": "Gharb-Chrarda-Béni Hssen"
+ },
+ {
+   "Rank": 47,
+   "City": "Guercif",
+   "Population": 56526,
+   "Province": "Taza",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 48,
+   "City": "Dakhla",
+   "Population": 55618,
+   "Province": "ouad eddahab",
+   "Region": "Oued Ed-Dahab-Lagouira"
+ },
+ {
+   "Rank": 49,
+   "City": "Hoceima",
+   "Population": 54333,
+   "Province": "Al Hoceima",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 50,
+   "City": "Fnideq",
+   "Population": 53526,
+   "Province": "Tetuan",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 51,
+   "City": "Ouarzazate",
+   "Population": 53489,
+   "Province": "Ouarzazate",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 52,
+   "City": "Tiznit",
+   "Population": 53441,
+   "Province": "Tiznit",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 53,
+   "City": "Suq Sebt Oulad Nama",
+   "Population": 51029,
+   "Province": "Beni Mellal",
+   "Region": "Tadla-Azilal"
+ },
+ {
+   "Rank": 54,
+   "City": "Azrou",
+   "Population": 47535,
+   "Province": "Ifrane",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 55,
+   "City": "Lahraouyine",
+   "Population": 47261,
+   "Province": "Mediouna",
+   "Region": "Grand Casablanca"
+ },
+ {
+   "Rank": 56,
+   "City": "Ben Slimane",
+   "Population": 45195,
+   "Province": "Bensliman",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 57,
+   "City": "Midelt",
+   "Population": 44730,
+   "Province": "Khenifra",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 58,
+   "City": "Jerada",
+   "Population": 43870,
+   "Province": "Jrada",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 59,
+   "City": "Skhirat",
+   "Population": 42580,
+   "Province": "Skhirat temara",
+   "Region": "Rabat-Salé-Zemmour-Zaer"
+ },
+ {
+   "Rank": 60,
+   "City": "Souk Larbaa",
+   "Population": 42338,
+   "Province": "Kenitra",
+   "Region": "Gharb-Chrarda-Béni Hssen"
+ },
+ {
+   "Rank": 61,
+   "City": "Aïn Harrouda",
+   "Population": 41853,
+   "Province": "Mohammedia",
+   "Region": "Grand Casablanca"
+ },
+ {
+   "Rank": 62,
+   "City": "Boujad",
+   "Population": 40512,
+   "Province": "Khouribga",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 63,
+   "City": "Kasbat Tadla",
+   "Population": 39887,
+   "Province": "Beni Mellal",
+   "Region": "Tadla-Azilal"
+ },
+ {
+   "Rank": 64,
+   "City": "Sidi Bennour",
+   "Population": 39593,
+   "Province": "Jdida",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 65,
+   "City": "Martil",
+   "Population": 39011,
+   "Province": "Tetuan",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 66,
+   "City": "Lqliâa",
+   "Population": 38220,
+   "Province": "Inzegan Aït melloul",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 67,
+   "City": "Cape Bojador",
+   "Population": 36731,
+   "Province": "Boujdor",
+   "Region": "Laâyoune-Boujdour-Sakia El Hamra"
+ },
+ {
+   "Rank": 68,
+   "City": "Azemmour",
+   "Population": 36722,
+   "Province": "Jdida",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 69,
+   "City": "M'diq",
+   "Population": 36596,
+   "Province": "Tetuan",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 70,
+   "City": "Tinghir",
+   "Population": 36388,
+   "Province": "Ouarzazate",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 71,
+   "City": "Al Aaroui",
+   "Population": 36021,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 72,
+   "City": "Chefchaouen",
+   "Population": 35709,
+   "Province": "Chefchawn",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 73,
+   "City": "M'Rirt",
+   "Population": 35196,
+   "Province": "Khenifra",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 74,
+   "City": "Zagora",
+   "Population": 34851,
+   "Province": "Zagora",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 75,
+   "City": "El Aioun Sidi Mellouk",
+   "Population": 34767,
+   "Province": "Taourirt",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 76,
+   "City": "Lamkansa",
+   "Population": 33940,
+   "Province": "Nouaceur",
+   "Region": "Grand Casablanca"
+ },
+ {
+   "Rank": 77,
+   "City": "Smara",
+   "Population": 33910,
+   "Province": "Esmara",
+   "Region": "Guelmim-Es Semara"
+ },
+ {
+   "Rank": 78,
+   "City": "Taounate",
+   "Population": 32600,
+   "Province": "Taounate",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 79,
+   "City": "Bin Anşār",
+   "Population": 31800,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 80,
+   "City": "Sidi Yahya El Gharb",
+   "Population": 31705,
+   "Province": "Kenitra",
+   "Region": "Gharb-Chrarda-Béni Hssen"
+ },
+ {
+   "Rank": 81,
+   "City": "Zaio",
+   "Population": 29851,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 82,
+   "City": "Amalou Ighriben",
+   "Population": 28933,
+   "Province": "Khenifra",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 83,
+   "City": "Asilah",
+   "Population": 28120,
+   "Province": "Tanger Assila",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 84,
+   "City": "Azilal",
+   "Population": 27711,
+   "Province": "Azilal",
+   "Region": "Tadla-Azilal"
+ },
+ {
+   "Rank": 85,
+   "City": "Mechra Bel Ksiri",
+   "Population": 27619,
+   "Province": "Sidi Kacem",
+   "Region": "Gharb-Chrarda-Béni Hssen"
+ },
+ {
+   "Rank": 86,
+   "City": "El Hajeb",
+   "Population": 27132,
+   "Province": "El hajeb",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 87,
+   "City": "Bouznika",
+   "Population": 27028,
+   "Province": "Bensliman",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 88,
+   "City": "Imzouren",
+   "Population": 26474,
+   "Province": "Al Hoceima",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 89,
+   "City": "Tahla",
+   "Population": 25655,
+   "Province": "Taza",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 90,
+   "City": "BouiZazarene Ihaddadene",
+   "Population": 25480,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 91,
+   "City": "Aïn El Aouda",
+   "Population": 25105,
+   "Province": "Skhirat temara",
+   "Region": "Rabat-Salé-Zemmour-Zaer"
+ },
+ {
+   "Rank": 92,
+   "City": "Bouarfa",
+   "Population": 24527,
+   "Province": "Figuig",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 93,
+   "City": "Arfoud",
+   "Population": 23622,
+   "Province": "Errachidia",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 94,
+   "City": "Demnate",
+   "Population": 23453,
+   "Province": "Azilal",
+   "Region": "Tadla-Azilal"
+ },
+ {
+   "Rank": 95,
+   "City": "Sidi Slimane Echcharraa",
+   "Population": 22889,
+   "Province": "Berkane",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 96,
+   "City": "Zawiyat cheikh",
+   "Population": 22727,
+   "Province": "Beni Mellal",
+   "Region": "Tadla-Azilal"
+ },
+ {
+   "Rank": 97,
+   "City": "Ain Taoujdate",
+   "Population": 22028,
+   "Province": "El hajeb",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 98,
+   "City": "Echemmaia",
+   "Population": 21859,
+   "Province": "Safi",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 99,
+   "City": "Aourir",
+   "Population": 21796,
+   "Province": "Agadir Ida ou tanane",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 100,
+   "City": "Sabaa Aiyoun",
+   "Population": 21501,
+   "Province": "El hajeb",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 101,
+   "City": "Oulad Ayad",
+   "Population": 21466,
+   "Province": "Beni Mellal",
+   "Region": "Tadla-Azilal"
+ },
+ {
+   "Rank": 102,
+   "City": "Ben Ahmed",
+   "Population": 21360,
+   "Province": "Settat",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 103,
+   "City": "Tabounte",
+   "Population": 21157,
+   "Province": "Ouarzazate",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 104,
+   "City": "Jorf El Melha",
+   "Population": 20581,
+   "Province": "Sidi Kacem",
+   "Region": "Gharb-Chrarda-Béni Hssen"
+ },
+ {
+   "Rank": 105,
+   "City": "Missour",
+   "Population": 20332,
+   "Province": "Boulman",
+   "Region": "Fès-Boulemane"
+ },
+ {
+   "Rank": 106,
+   "City": "Laattaouia",
+   "Population": 20237,
+   "Province": "Kelaat Sraghna",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 107,
+   "City": "Er-Rich",
+   "Population": 20155,
+   "Province": "Errachidia",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 108,
+   "City": "Segangan",
+   "Population": 20134,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 109,
+   "City": "Rissani",
+   "Population": 20126,
+   "Province": "Errachidia",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 110,
+   "City": "Sidi Taibi",
+   "Population": 19979,
+   "Province": "Kenitra",
+   "Region": "Gharb-Chrarda-Béni Hssen"
+ },
+ {
+   "Rank": 111,
+   "City": "Sidi Ifni",
+   "Population": 19967,
+   "Province": "Tiznit",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 112,
+   "City": "Ait Ourir",
+   "Population": 19864,
+   "Province": "Al hawz",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 113,
+   "City": "Ahfir",
+   "Population": 19477,
+   "Province": "Berkane",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 114,
+   "City": "El Ksiba",
+   "Population": 18480,
+   "Province": "Beni Mellal",
+   "Region": "Tadla-Azilal"
+ },
+ {
+   "Rank": 115,
+   "City": "El Gara",
+   "Population": 18070,
+   "Province": "Settat",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 116,
+   "City": "Drarga",
+   "Population": 17059,
+   "Province": "Agadir Ida ou tanane",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 117,
+   "City": "Imintanoute",
+   "Population": 17051,
+   "Province": "Chichaoua",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 118,
+   "City": "Goulmima",
+   "Population": 16582,
+   "Province": "Errachidia",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 119,
+   "City": "Karia Ba Mohamed",
+   "Population": 16549,
+   "Province": "Taounate",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 120,
+   "City": "Mehdya",
+   "Population": 16258,
+   "Province": "Kenitra",
+   "Region": "Gharb-Chrarda-Béni Hssen"
+ },
+ {
+   "Rank": 121,
+   "City": "El Borouj",
+   "Population": 16222,
+   "Province": "Settat",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 122,
+   "City": "Bouhdila",
+   "Population": 16145,
+   "Province": "Berkane",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 123,
+   "City": "Chichaoua",
+   "Population": 15643,
+   "Province": "Chichaoua",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 124,
+   "City": "Bni Bouayach",
+   "Population": 15497,
+   "Province": "Al Hoceima",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 125,
+   "City": "Oulad Berhil",
+   "Population": 15334,
+   "Province": "Taroudant",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 126,
+   "City": "Jmaat Shaim",
+   "Population": 15325,
+   "Province": "Safi",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 127,
+   "City": "Bir Jdid",
+   "Population": 15267,
+   "Province": "Jdida",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 128,
+   "City": "Tata",
+   "Population": 15192,
+   "Province": "Tata",
+   "Region": "Guelmim-Es Semara"
+ },
+ {
+   "Rank": 129,
+   "City": "Boujniba",
+   "Population": 15041,
+   "Province": "Khouribga",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 130,
+   "City": "Temsia",
+   "Population": 14894,
+   "Province": "Inzegan Aït melloul",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 131,
+   "City": "Mediouna",
+   "Population": 14653,
+   "Province": "Mediouna",
+   "Region": "Grand Casablanca"
+ },
+ {
+   "Rank": 132,
+   "City": "Kelat Megnouna",
+   "Population": 14190,
+   "Province": "Ouarzazate",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 133,
+   "City": "Sebt Gzoula",
+   "Population": 13943,
+   "Province": "Safi",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 134,
+   "City": "Outat El Haj",
+   "Population": 13938,
+   "Province": "Boulman",
+   "Region": "Fès-Boulemane"
+ },
+ {
+   "Rank": 135,
+   "City": "Imouzzer Kandar",
+   "Population": 13725,
+   "Province": "Sefrou",
+   "Region": "Fès-Boulemane"
+ },
+ {
+   "Rank": 136,
+   "City": "Ain Bni Mathar",
+   "Population": 13526,
+   "Province": "Jrada",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 137,
+   "City": "Bouskoura",
+   "Population": 13453,
+   "Province": "Nouaceur",
+   "Region": "Grand Casablanca"
+ },
+ {
+   "Rank": 138,
+   "City": "Agourai",
+   "Population": 13291,
+   "Province": "El Hajeb",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 139,
+   "City": "Midar",
+   "Population": 13229,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 140,
+   "City": "Lalla Mimouna",
+   "Population": 12967,
+   "Province": "Kenitra",
+   "Region": "Gharb-Chrarda-Béni Hssen"
+ },
+ {
+   "Rank": 141,
+   "City": "Ribat El Kheir",
+   "Population": 12654,
+   "Province": "Sefrou",
+   "Region": "Fès-Boulemane"
+ },
+ {
+   "Rank": 142,
+   "City": "Moulay Driss Zerhoun",
+   "Population": 12580,
+   "Province": "Meknès",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 143,
+   "City": "Figuig",
+   "Population": 12516,
+   "Province": "Figuig",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 144,
+   "City": "Boumia",
+   "Population": 12444,
+   "Province": "Khenifra",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 145,
+   "City": "Tamallalt",
+   "Population": 12176,
+   "Province": "Kelaat Sraghna",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 146,
+   "City": "Nouaceur",
+   "Population": 12153,
+   "Province": "Nouaceur",
+   "Region": "Grand Casablanca"
+ },
+ {
+   "Rank": 147,
+   "City": "Rommani",
+   "Population": 12149,
+   "Province": "Khemisset",
+   "Region": "Rabat-Salé-Zemmour-Zaer"
+ },
+ {
+   "Rank": 148,
+   "City": "Jorf",
+   "Population": 12135,
+   "Province": "Errachidia",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 149,
+   "City": "Ifran",
+   "Population": 12104,
+   "Province": "Ifrane",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 150,
+   "City": "Bouizakarn",
+   "Population": 11982,
+   "Province": "Guelmim",
+   "Region": "Guelmim-Es Semara"
+ },
+ {
+   "Rank": 151,
+   "City": "Oulad Mbarek",
+   "Population": 11906,
+   "Province": "Beni Mellal",
+   "Region": "Tadla-Azilal"
+ },
+ {
+   "Rank": 152,
+   "City": "Afourar",
+   "Population": 11898,
+   "Province": "Azilal",
+   "Region": "Tadla-Azilal"
+ },
+ {
+   "Rank": 153,
+   "City": "Zmamra",
+   "Population": 11896,
+   "Province": "Jdida",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 154,
+   "City": "Aït Ishaq",
+   "Population": 11804,
+   "Province": "Khenifra",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 155,
+   "City": "Tit Mellil",
+   "Population": 11710,
+   "Province": "Mediouna",
+   "Region": "Grand Casablanca"
+ },
+ {
+   "Rank": 156,
+   "City": "Assa",
+   "Population": 11667,
+   "Province": "Assa zag",
+   "Region": "Guelmim-Es Semara"
+ },
+ {
+   "Rank": 157,
+   "City": "Bhalil",
+   "Population": 11638,
+   "Province": "Sefrou",
+   "Region": "Fès-Boulemane"
+ },
+ {
+   "Rank": 158,
+   "City": "Targuist",
+   "Population": 11560,
+   "Province": "Al Hoceima",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 159,
+   "City": "Beni Yakhlef",
+   "Population": 11490,
+   "Province": "Mohammedia",
+   "Region": "Grand Casablanca"
+ },
+ {
+   "Rank": 160,
+   "City": "El Menzel",
+   "Population": 11465,
+   "Province": "Sefrou",
+   "Region": "Fès-Boulemane"
+ },
+ {
+   "Rank": 161,
+   "City": "Aguelmous",
+   "Population": 11390,
+   "Province": "Khenifra",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 162,
+   "City": "Sid L'Mokhtar",
+   "Population": 11080,
+   "Province": "Chichaoua",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 163,
+   "City": "Boumalne Dades",
+   "Population": 11004,
+   "Province": "Ouarzazate",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 164,
+   "City": "Farkhana",
+   "Population": 10990,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 165,
+   "City": "Oulad Abbou",
+   "Population": 10748,
+   "Province": "Settat",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 166,
+   "City": "Amizmiz",
+   "Population": 10727,
+   "Province": "Al Haouz",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 167,
+   "City": "Boulanouare",
+   "Population": 10469,
+   "Province": "Khouribga",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 168,
+   "City": "Ben Taieb",
+   "Population": 10446,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 169,
+   "City": "Ouled Frej",
+   "Population": 10387,
+   "Province": "Jdida",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 170,
+   "City": "Driouch",
+   "Population": 10381,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 171,
+   "City": "Deroua",
+   "Population": 10373,
+   "Province": "Settat",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 172,
+   "City": "Hattane",
+   "Population": 10284,
+   "Province": "Khouribga",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 173,
+   "City": "El Marsa",
+   "Population": 10229,
+   "Province": "Layoune",
+   "Region": "Laâyoune-Boujdour-Sakia El Hamra"
+ },
+ {
+   "Rank": 174,
+   "City": "Tamanar",
+   "Population": 9968,
+   "Province": "Essaouira",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 175,
+   "City": "Ait Iaaza",
+   "Population": 9910,
+   "Province": "Taroudant",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 176,
+   "City": "Sidi Allal El Bahraoui",
+   "Population": 9884,
+   "Province": "Khmisset",
+   "Region": "Rabat-Salé-Zemmour-Zaer"
+ },
+ {
+   "Rank": 177,
+   "City": "Dar Ould Zidouh",
+   "Population": 9821,
+   "Province": "Beni Mellal",
+   "Region": "Tadla-Azilal"
+ },
+ {
+   "Rank": 178,
+   "City": "Sid Zouine",
+   "Population": 9802,
+   "Province": "Marrakesh",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 179,
+   "City": "Boudnib",
+   "Population": 9718,
+   "Province": "Errachidia",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 180,
+   "City": "Foum Zguid",
+   "Population": 9611,
+   "Province": "Tata",
+   "Region": "Guelmim-Es Semara"
+ },
+ {
+   "Rank": 181,
+   "City": "Tissa",
+   "Population": 9566,
+   "Province": "Taounate",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 182,
+   "City": "Jaadar",
+   "Population": 9497,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 183,
+   "City": "Oulmes",
+   "Population": 9460,
+   "Province": "Khmisset",
+   "Region": "Rabat-Salé-Zemmour-Zaer"
+ },
+ {
+   "Rank": 184,
+   "City": "Bouknadel",
+   "Population": 9314,
+   "Province": "Sale",
+   "Region": "Rabat-Salé-Zemmour-Zaer"
+ },
+ {
+   "Rank": 185,
+   "City": "Harhoura",
+   "Population": 9241,
+   "Province": "Skhirat temara",
+   "Region": "Rabat-Salé-Zemmour-Zaer"
+ },
+ {
+   "Rank": 186,
+   "City": "El Guerdan",
+   "Population": 9220,
+   "Province": "Taroudant",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 187,
+   "City": "Selouane",
+   "Population": 9211,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 188,
+   "City": "Maaziz",
+   "Population": 9190,
+   "Province": "Khmisset",
+   "Region": "Rabat-Salé-Zemmour-Zaer"
+ },
+ {
+   "Rank": 189,
+   "City": "Oulad M'Rah",
+   "Population": 9166,
+   "Province": "Settat",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 190,
+   "City": "Loudaya",
+   "Population": 8989,
+   "Province": "Marrakesh",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 191,
+   "City": "Massa",
+   "Population": 8970,
+   "Province": "Chtouka Aït Baha",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 192,
+   "City": "Aklim",
+   "Population": 8969,
+   "Province": "Berkane",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 193,
+   "City": "Ouaouizert",
+   "Population": 8940,
+   "Province": "Azilal",
+   "Region": "Tadla-Azilal"
+ },
+ {
+   "Rank": 194,
+   "City": "Bni Drar",
+   "Population": 8919,
+   "Province": "Oujda Angad",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 195,
+   "City": "El Kbab",
+   "Population": 8541,
+   "Province": "Khenifra",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 196,
+   "City": "Oued Amlil",
+   "Population": 8246,
+   "Province": "Taza",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 197,
+   "City": "Sidi Rahel Chatai",
+   "Population": 8140,
+   "Province": "Settat",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 198,
+   "City": "Guigou",
+   "Population": 7976,
+   "Province": "Boulman",
+   "Region": "Fès-Boulemane"
+ },
+ {
+   "Rank": 199,
+   "City": "Agdz",
+   "Population": 7951,
+   "Province": "Zagora",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 200,
+   "City": "Khnichet",
+   "Population": 7936,
+   "Province": "Sidi Kacem",
+   "Region": "Gharb-Chrarda-Béni Hssen"
+ },
+ {
+   "Rank": 201,
+   "City": "Karia",
+   "Population": 7803,
+   "Province": "Jdida",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 202,
+   "City": "Sidi Ahmed",
+   "Population": 7751,
+   "Province": "Safi",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 203,
+   "City": "Zag",
+   "Population": 7751,
+   "Province": "Assa zag",
+   "Region": "Guelmim-Es Semara"
+ },
+ {
+   "Rank": 204,
+   "City": "Oulad Yaich",
+   "Population": 7692,
+   "Province": "Beni Mellal",
+   "Region": "Tadla-Azilal"
+ },
+ {
+   "Rank": 205,
+   "City": "Tinjdad",
+   "Population": 7481,
+   "Province": "Errachidia",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 206,
+   "City": "Ouad Laou",
+   "Population": 7478,
+   "Province": "Tetuan",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 207,
+   "City": "Tighassaline",
+   "Population": 7336,
+   "Province": "Khenifra",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 208,
+   "City": "Tounfit",
+   "Population": 7277,
+   "Province": "Khenifra",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 209,
+   "City": "Bni Tadjite",
+   "Population": 7209,
+   "Province": "Figuig",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 210,
+   "City": "Bouanane",
+   "Population": 7209,
+   "Province": "Figuig",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 211,
+   "City": "Oulad Hriz Sahel",
+   "Population": 7149,
+   "Province": "Settat",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 212,
+   "City": "Talsint",
+   "Population": 7098,
+   "Province": "Figuig",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 213,
+   "City": "Taghjijt",
+   "Population": 6983,
+   "Province": "Guelmim",
+   "Region": "Guelmim-Es Semara"
+ },
+ {
+   "Rank": 214,
+   "City": "Boulemane",
+   "Population": 6910,
+   "Province": "Boulman",
+   "Region": "Fès-Boulemane"
+ },
+ {
+   "Rank": 215,
+   "City": "Zirara",
+   "Population": 6707,
+   "Province": "Sidi Kacem",
+   "Region": "Gharb-Chrarda-Béni Hssen"
+ },
+ {
+   "Rank": 216,
+   "City": "Taouima",
+   "Population": 6641,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 217,
+   "City": "Tahannaout",
+   "Population": 6582,
+   "Province": "Al Haouz",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 218,
+   "City": "Bradia",
+   "Population": 6546,
+   "Province": "Beni Mellal",
+   "Region": "Tadla-Azilal"
+ },
+ {
+   "Rank": 219,
+   "City": "Moulay Abdallah",
+   "Population": 6482,
+   "Province": "Jdida",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 220,
+   "City": "Sidi Rahal",
+   "Population": 6352,
+   "Province": "Kelaat Sraghna",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 221,
+   "City": "Tameslouht",
+   "Population": 6346,
+   "Province": "Al Haouz",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 222,
+   "City": "Aghbala",
+   "Population": 6300,
+   "Province": "Beni Mellal",
+   "Region": "Tadla-Azilal"
+ },
+ {
+   "Rank": 223,
+   "City": "El Ouatia",
+   "Population": 6294,
+   "Province": "Tan-Tan",
+   "Region": "Guelmim-Es Semara"
+ },
+ {
+   "Rank": 224,
+   "City": "Tendrara",
+   "Population": 6254,
+   "Province": "Figuig",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 225,
+   "City": "Taznakht",
+   "Population": 6185,
+   "Province": "Ouarzazate",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 226,
+   "City": "Fam El Hisn",
+   "Population": 6183,
+   "Province": "Tata",
+   "Region": "Guelmim-Es Semara"
+ },
+ {
+   "Rank": 227,
+   "City": "Akka",
+   "Population": 6132,
+   "Province": "Tata",
+   "Region": "Guelmim-Es Semara"
+ },
+ {
+   "Rank": 228,
+   "City": "Dar Gueddari",
+   "Population": 6011,
+   "Province": "Sidi Kacem",
+   "Region": "Gharb-Chrarda-Béni Hssen"
+ },
+ {
+   "Rank": 229,
+   "City": "Itzer",
+   "Population": 5947,
+   "Province": "Khenifra",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 230,
+   "City": "Taliouine",
+   "Population": 5832,
+   "Province": "Taroudant",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 231,
+   "City": "Oualidia",
+   "Population": 5826,
+   "Province": "Jdida",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 232,
+   "City": "Aoulouz",
+   "Population": 5712,
+   "Province": "Taroudant",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 233,
+   "City": "Moulay Bousselham",
+   "Population": 5668,
+   "Province": "Kenitra",
+   "Region": "Gharb-Chrarda-Béni Hssen"
+ },
+ {
+   "Rank": 234,
+   "City": "Tarfaya",
+   "Population": 5615,
+   "Province": "Layoune",
+   "Region": "Laâyoune-Boujdour-Sakia El Hamra"
+ },
+ {
+   "Rank": 235,
+   "City": "Ghafsai",
+   "Population": 5492,
+   "Province": "Taounate",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 236,
+   "City": "Foum Jamaa",
+   "Population": 5360,
+   "Province": "Azilal",
+   "Region": "Tadla-Azilal"
+ },
+ {
+   "Rank": 237,
+   "City": "Ain Leuh",
+   "Population": 5276,
+   "Province": "Ifran",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 238,
+   "City": "Moulay Bouazza",
+   "Population": 5241,
+   "Province": "Khenifra",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 239,
+   "City": "Kariat Arkmane",
+   "Population": 5228,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 240,
+   "City": "Kehf Nsour",
+   "Population": 5089,
+   "Province": "Khenifra",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 241,
+   "City": "Sidi Bou Othmane",
+   "Population": 5066,
+   "Province": "Kelaat Sraghna",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 242,
+   "City": "Oulad Tayeb",
+   "Population": 5056,
+   "Province": "Fes",
+   "Region": "Fès-Boulemane"
+ },
+ {
+   "Rank": 243,
+   "City": "Had Kourt",
+   "Population": 5051,
+   "Province": "Sidi Kacem",
+   "Region": "Gharb-Chrarda-Béni Hssen"
+ },
+ {
+   "Rank": 244,
+   "City": "Bab Berrad",
+   "Population": 5043,
+   "Province": "Chefchawn",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 245,
+   "City": "Loulad",
+   "Population": 5025,
+   "Province": "Settat",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 246,
+   "City": "Zaida",
+   "Population": 4968,
+   "Province": "Khenifra",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 247,
+   "City": "Tafrawt",
+   "Population": 4924,
+   "Province": "Tiznit",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 248,
+   "City": "Khemis Sahel",
+   "Population": 4826,
+   "Province": "Larache",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 249,
+   "City": "Aït Baha",
+   "Population": 4767,
+   "Province": "Chtouka Aït Baha",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 250,
+   "City": "Biougra",
+   "Population": 4767,
+   "Province": "Chtouka Aït Baha",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 251,
+   "City": "Dar Bni Karrich",
+   "Population": 4743,
+   "Province": "Tetuan",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 252,
+   "City": "El Hanchane",
+   "Population": 4698,
+   "Province": "Essaouira",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 253,
+   "City": "Sidi Jaber",
+   "Population": 4693,
+   "Province": "Beni Mellal",
+   "Region": "Tadla-Azilal"
+ },
+ {
+   "Rank": 254,
+   "City": "Irherm",
+   "Population": 4607,
+   "Province": "Taroudant",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 255,
+   "City": "Debdou",
+   "Population": 4575,
+   "Province": "Taourirt",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 256,
+   "City": "Ras Kebdana",
+   "Population": 4532,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 257,
+   "City": "Laaounate",
+   "Population": 4465,
+   "Province": "Jdida",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 258,
+   "City": "Hadj Kaddour",
+   "Population": 4362,
+   "Province": "Meknès",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 259,
+   "City": "Skhour Rhamna",
+   "Population": 4352,
+   "Province": "Kelaat Sraghna",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 260,
+   "City": "Bzou",
+   "Population": 4323,
+   "Province": "Azilal",
+   "Region": "Tadla-Azilal"
+ },
+ {
+   "Rank": 261,
+   "City": "Ain Cheggag",
+   "Population": 4286,
+   "Province": "Sefrou",
+   "Region": "Fès-Boulemane"
+ },
+ {
+   "Rank": 262,
+   "City": "Bouderbala",
+   "Population": 4258,
+   "Province": "El Hajeb",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 263,
+   "City": "Sidi Smaïl",
+   "Population": 4243,
+   "Province": "Jdida",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 264,
+   "City": "Oulad Zbair",
+   "Population": 4193,
+   "Province": "Taza",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 265,
+   "City": "Bni Chiker",
+   "Population": 4188,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 266,
+   "City": "Lakhsas",
+   "Population": 4178,
+   "Province": "Tiznit",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 267,
+   "City": "Talmest",
+   "Population": 4133,
+   "Province": "Essaouira",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 268,
+   "City": "Aknoul",
+   "Population": 4066,
+   "Province": "Taza",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 269,
+   "City": "Tiztoutine",
+   "Population": 4041,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 270,
+   "City": "Bab Taza",
+   "Population": 4006,
+   "Province": "Chefchawn",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 271,
+   "City": "Imouzzer Marmoucha",
+   "Population": 4001,
+   "Province": "Boulman",
+   "Region": "Fès-Boulemane"
+ },
+ {
+   "Rank": 272,
+   "City": "Gourrama",
+   "Population": 3987,
+   "Province": "Errachidia",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 273,
+   "City": "Ajdir",
+   "Population": 3987,
+   "Province": "Al Hoceima",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 274,
+   "City": "Mhaya",
+   "Population": 3952,
+   "Province": "Meknès",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 275,
+   "City": "Oulad Ghadbane",
+   "Population": 3889,
+   "Province": "Jdida",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 276,
+   "City": "Zrarda",
+   "Population": 3860,
+   "Province": "Taza",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 277,
+   "City": "Zoumi",
+   "Population": 3830,
+   "Province": "Chefchawn",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 278,
+   "City": "Ain Karma",
+   "Population": 3828,
+   "Province": "Meknès",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 279,
+   "City": "Thar Essouk",
+   "Population": 3792,
+   "Province": "Taounate",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 280,
+   "City": "Lagouira",
+   "Population": 3726,
+   "Province": "Aousserd",
+   "Region": "Oued Ed-Dahab-Lagouira"
+ },
+ {
+   "Rank": 281,
+   "City": "Ras El Ain",
+   "Population": 3638,
+   "Province": "Settat",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 282,
+   "City": "Sidi Ali Ben Hamdouche",
+   "Population": 3597,
+   "Province": "Jdida",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 283,
+   "City": "Sebt Jahjouh",
+   "Population": 3585,
+   "Province": "El Hajeb",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 284,
+   "City": "Tiddas",
+   "Population": 3584,
+   "Province": "Khmisset",
+   "Region": "Rabat-Salé-Zemmour-Zaer"
+ },
+ {
+   "Rank": 285,
+   "City": "Zaouiat Bougrin",
+   "Population": 3570,
+   "Province": "Sefrou",
+   "Region": "Fès-Boulemane"
+ },
+ {
+   "Rank": 286,
+   "City": "Tafersit",
+   "Population": 3555,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 287,
+   "City": "Touissit",
+   "Population": 3429,
+   "Province": "Jrada",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 288,
+   "City": "Saïdia",
+   "Population": 3338,
+   "Province": "Berkane",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 289,
+   "City": "Lalla Takerkoust",
+   "Population": 3337,
+   "Province": "Al Haouz",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 290,
+   "City": "Skhinate",
+   "Population": 3317,
+   "Province": "Fes",
+   "Region": "Fès-Boulemane"
+ },
+ {
+   "Rank": 291,
+   "City": "Moulay Brahim",
+   "Population": 3252,
+   "Province": "Al Haouz",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 292,
+   "City": "Soualem",
+   "Population": 3243,
+   "Province": "Settat",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 293,
+   "City": "Gueznaia",
+   "Population": 3187,
+   "Province": "Tanger-Assilah",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 294,
+   "City": "Moulay Yacoub",
+   "Population": 3153,
+   "Province": "Moulay Yaccoub",
+   "Region": "Fès-Boulemane"
+ },
+ {
+   "Rank": 295,
+   "City": "Sidi Allal Tazi",
+   "Population": 3140,
+   "Province": "Kenitra",
+   "Region": "Gharb-Chrarda-Béni Hssen"
+ },
+ {
+   "Rank": 296,
+   "City": "Laakarta",
+   "Population": 3116,
+   "Province": "Safi",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 297,
+   "City": "Alnif",
+   "Population": 3072,
+   "Province": "Errachidia",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 298,
+   "City": "Dar El Kebdani",
+   "Population": 2990,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 299,
+   "City": "Jebha",
+   "Population": 2984,
+   "Province": "Chefchawn",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 300,
+   "City": "Ain Erreggada",
+   "Population": 2975,
+   "Province": "Berkane",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 301,
+   "City": "Sidi Addi",
+   "Population": 2895,
+   "Province": "Ifran",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 302,
+   "City": "Skoura",
+   "Population": 2808,
+   "Province": "Ouarzazate",
+   "Region": "Souss-Massa-Drâa"
+ },
+ {
+   "Rank": 303,
+   "City": "Smimou",
+   "Population": 2675,
+   "Province": "Essaouira",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 304,
+   "City": "Ain Jemaa",
+   "Population": 2610,
+   "Province": "Meknès",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 305,
+   "City": "Timahdite",
+   "Population": 2507,
+   "Province": "Ifran",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 306,
+   "City": "Ait Daoud",
+   "Population": 2497,
+   "Province": "Essaouira",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 307,
+   "City": "Souk El Had",
+   "Population": 2488,
+   "Province": "Ifran",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 308,
+   "City": "Had Bouhssoussen",
+   "Population": 2421,
+   "Province": "Khenifra",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 309,
+   "City": "Oulad Said",
+   "Population": 2396,
+   "Province": "Settat",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 310,
+   "City": "Arbaoua",
+   "Population": 2333,
+   "Province": "Kenitra",
+   "Region": "Gharb-Chrarda-Béni Hssen"
+ },
+ {
+   "Rank": 311,
+   "City": "Ain Dorij",
+   "Population": 2321,
+   "Province": "Sidi Kacem",
+   "Region": "Gharb-Chrarda-Béni Hssen"
+ },
+ {
+   "Rank": 312,
+   "City": "Madagh",
+   "Population": 2312,
+   "Province": "Berkane",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 313,
+   "City": "Tighza",
+   "Population": 2217,
+   "Province": "Khenifra",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 314,
+   "City": "Matmata",
+   "Population": 2194,
+   "Province": "Taza",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 315,
+   "City": "Kerouna",
+   "Population": 2188,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 316,
+   "City": "Kassita",
+   "Population": 2126,
+   "Province": "Nador",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 317,
+   "City": "Bni Hadifa",
+   "Population": 2061,
+   "Province": "Al Hoceima",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 318,
+   "City": "Oued El Heimar",
+   "Population": 1997,
+   "Province": "Jrada",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 319,
+   "City": "Kerrouchen",
+   "Population": 1967,
+   "Province": "Khenifra",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 320,
+   "City": "Tainaste",
+   "Population": 1905,
+   "Province": "Taza",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 321,
+   "City": "Guisser",
+   "Population": 1890,
+   "Province": "Settat",
+   "Region": "Chaouia-Ouardigha"
+ },
+ {
+   "Rank": 322,
+   "City": "Sidi Boubker",
+   "Population": 1878,
+   "Province": "Jrada",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 323,
+   "City": "Tamassint",
+   "Population": 1788,
+   "Province": "Al Hoceima",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 324,
+   "City": "Assahrij",
+   "Population": 1732,
+   "Province": "Kelaat Sraghna",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 325,
+   "City": "Aghbalou Nssardane",
+   "Population": 1703,
+   "Province": "Khenifra",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 326,
+   "City": "Tizi Ouasli",
+   "Population": 1695,
+   "Province": "Taza",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 327,
+   "City": "Moqrisset",
+   "Population": 1680,
+   "Province": "Chefchawn",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 328,
+   "City": "Sebt Lamaarif",
+   "Population": 1638,
+   "Province": "Jdida",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 329,
+   "City": "Issaguen",
+   "Population": 1638,
+   "Province": "Al Hoceima",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 330,
+   "City": "Bouguedra",
+   "Population": 1558,
+   "Province": "Safi",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 331,
+   "City": "Brikcha",
+   "Population": 1510,
+   "Province": "Chefchawn",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 332,
+   "City": "Ighoud",
+   "Population": 1475,
+   "Province": "Safi",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 333,
+   "City": "Ajdir, Taza",
+   "Population": 1451,
+   "Province": "Taounate",
+   "Region": "Taza-Al Hoceima-Taounate"
+ },
+ {
+   "Rank": 334,
+   "City": "Oulad Amrane",
+   "Population": 1443,
+   "Province": "Jdida",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 335,
+   "City": "Kettara",
+   "Population": 1365,
+   "Province": "Marrakesh",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 336,
+   "City": "Aoufous",
+   "Population": 1272,
+   "Province": "Errachidia",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 337,
+   "City": "Tafetachte",
+   "Population": 1174,
+   "Province": "Essaouira",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 338,
+   "City": "Naïma",
+   "Population": 1151,
+   "Province": "Oujda Angad",
+   "Region": "Oriental"
+ },
+ {
+   "Rank": 339,
+   "City": "Tnin Sidi Lyamani",
+   "Population": 1101,
+   "Province": "Tanger-Assilah",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 340,
+   "City": "Karia",
+   "Population": 1100,
+   "Province": "Tetuan",
+   "Region": "Tangier-Tetouan"
+ },
+ {
+   "Rank": 341,
+   "City": "N'Zalat Bni Amar",
+   "Population": 1070,
+   "Province": "Meknès",
+   "Region": "Meknès-Tafilalet"
+ },
+ {
+   "Rank": 342,
+   "City": "Ahrara",
+   "Population": 1028,
+   "Province": "Safi",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 343,
+   "City": "Sidi Abdallah Ghiat",
+   "Population": 986,
+   "Province": "Al Haouz",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ },
+ {
+   "Rank": 344,
+   "City": "Sidi Bouzid",
+   "Population": 981,
+   "Province": "Jdida",
+   "Region": "Doukkala-Abda"
+ },
+ {
+   "Rank": 345,
+   "City": "Ounagha",
+   "Population": 912,
+   "Province": "Essaouira",
+   "Region": "Marrakesh-Tensift-El Haouz"
+ }
+]
